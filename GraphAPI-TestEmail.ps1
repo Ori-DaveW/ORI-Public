@@ -2,7 +2,7 @@
 $Clientsecret = "<Client Secret Here>"
 $tenantID = "<Tenant ID Here>"
 $MailSender = "<Sender E-Mail Address here>"
-$MailRecipent = "<Target E-Mail Address Here"
+$MailRecipent = "<Target E-Mail Address Here>"
 
 #Connect to GRAPH API
 $tokenBody = @{
